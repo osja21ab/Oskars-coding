@@ -1,4 +1,4 @@
-function personligHilsen (navn=`bro`){
+function personligHilsen (navn=`bro`){ // yo
     console.log(`yo ${navn} vil du med til piratfest på reffen i aften? adressen er piratvej 100`)
     }
     let array =[
